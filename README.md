@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thawidevelop
-- 👀 I’m interested in frontend development. Javascript, html, css, php
-- 🌱 I’m currently learning junior frontend developer.
+- 👀 I’m interested in backend and frontend development. Java, Javascript, html, css, php
+- 🌱 I’m currently learning junior developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
